@@ -1,9 +1,17 @@
-A VHR Software é uma empresa brasileira especializada em soluções tecnológicas para diversos setores, com foco em projetos de IA e consultoria para equipes de tecnologia.
+Estratégia, gestão e eficiência para o avanço tecnológico da sua empresa.
 
-A empresa oferece uma plataforma de IA que reúne diversas funcionalidades:
-- Mapeamento da fonte de dados, seja ela qual for: Bancos de dados relacionais ou não relacionais, planilhas, documentos, textos, etc.
-- Análises históricas e preditivas;
-- Integração com sistemas já existentes;
-- Customizações e personalizações de acordo com a solicitação do cliente;
+Nossos serviços:
+- Consultoria Tech
+Arquitetura de processos & Otimização do SDLC
+Maior eficiência para o time de engenharia de software, através da definição do ciclo de vida de desenvolvimento de software, reestruturação e arquitetura de processos e a definição de papéis e responsabilidades dos envolvidos na vertical de tecnologia.
 
-Com presença em todo o território brasileiro, a VHR Software atende tanto clientes individuais quanto empresas, se tornando uma referência no mercado de soluções em IA no Brasil.
+- Software personalizado
+Sistemas personalizados sob demanda
+Desenvolvimento sob demanda de projetos, utilizando tecnologias de mercado, como .NET, TypeScript, Java, PHP, infra em cloud Azure, AWS e Oracle, utilizando de metodologias ágeis como Scrum e Kanban.
+
+- Projetos de IA
+Soluções exclusivas para vantagem competitiva
+Desenvolvimento exclusivo de projetos utilizando sistemas RAG, NLU e Multi-LLM, para trazer diferencial de mercado para os produtos ou serviços do cliente.
+
+Não perca tempo, entre em contato conosco
+contato@vhrsoftware.com
